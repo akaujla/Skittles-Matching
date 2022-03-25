@@ -1,0 +1,57 @@
+=======================
+Welcome to SKITTLES 175
+=======================
+
+Please enter a filename to initialize game: easy.txt
+
+0: |                              |
+1: |                              |
+2: |                              |
+3: |                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( Y ) on (0-3)? 2
+0: |                              |
+1: |                              |
+2: |( Y )                         |
+3: |                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( Y ) on (0-3)? 2
+0: |                              |
+1: |                              |
+2: |( Y )( Y )                    |
+3: |                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-3)? 2
+0: |                              |
+1: |                              |
+2: |( Y )( Y )( P )               |
+3: |                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-3)? 2
+0: |                              |
+1: |                              |
+2: |( Y )( Y )( P )( P )          |
+3: |                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-3)? 2
+Three ( P ) matched on stack 2!
+Chain reaction! Three ( Y ) matched on stack 2!
+0: |                              |
+1: |                              |
+2: |( P )                         |
+3: |                              |
+Matched skittles: ( P )( Y )
+Highest number of matches in a single chain: 2
+
+WINNER! All skittles have been successfully played.
+Goodbye.

@@ -1,0 +1,145 @@
+=======================
+Welcome to SKITTLES 175
+=======================
+
+Please enter a filename to initialize game: hard.txt
+
+0: |                                   |
+1: |                                   |
+2: |                                   |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-2)? 1
+0: |                                   |
+1: |( P )                              |
+2: |                                   |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-2)? 1
+0: |                                   |
+1: |( P )( P )                         |
+2: |                                   |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( R ) on (0-2)? 2
+0: |                                   |
+1: |( P )( P )                         |
+2: |( R )                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( Y ) on (0-2)? 1
+0: |                                   |
+1: |( P )( P )( Y )                    |
+2: |( R )                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( Y ) on (0-2)? 1
+0: |                                   |
+1: |( P )( P )( Y )( Y )               |
+2: |( R )                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-2)? 1
+0: |                                   |
+1: |( P )( P )( Y )( Y )( P )          |
+2: |( R )                              |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( R ) on (0-2)? 2
+0: |                                   |
+1: |( P )( P )( Y )( Y )( P )          |
+2: |( R )( R )                         |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( O ) on (0-2)? 0
+0: |( O )                              |
+1: |( P )( P )( Y )( Y )( P )          |
+2: |( R )( R )                         |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-2)? 1
+0: |( O )                              |
+1: |( P )( P )( Y )( Y )( P )( P )     |
+2: |( R )( R )                         |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( R ) on (0-2)? 2
+Three ( R ) matched on stack 2!
+0: |( O )                              |
+1: |( P )( P )( Y )( Y )( P )( P )     |
+2: |( G )                              |
+Matched skittles: ( R )
+Highest number of matches in a single chain: 1
+
+Which stack would you like to play ( G ) on (0-2)? 2
+0: |( O )                              |
+1: |( P )( P )( Y )( Y )( P )( P )     |
+2: |( G )( G )                         |
+Matched skittles: ( R )
+Highest number of matches in a single chain: 1
+
+Which stack would you like to play ( B ) on (0-2)? 0
+0: |( O )( B )                         |
+1: |( P )( P )( Y )( Y )( P )( P )     |
+2: |( G )( G )                         |
+Matched skittles: ( R )
+Highest number of matches in a single chain: 1
+
+Which stack would you like to play ( P ) on (0-2)? 1
+Three ( P ) matched on stack 1!
+Chain reaction! Three ( Y ) matched on stack 1!
+Chain reaction! Three ( P ) matched on stack 1!
+0: |( O )( B )                         |
+1: |( Y )                              |
+2: |( G )( G )                         |
+Matched skittles: ( P )( P )( Y )( R )
+Highest number of matches in a single chain: 3
+
+Which stack would you like to play ( G ) on (0-2)? 2
+Three ( G ) matched on stack 2!
+0: |( O )( B )                         |
+1: |( Y )                              |
+2: |( R )                              |
+Matched skittles: ( P )( P )( G )( Y )( R )
+Highest number of matches in a single chain: 3
+
+Which stack would you like to play ( Y ) on (0-2)? 1
+0: |( O )( B )                         |
+1: |( Y )( Y )                         |
+2: |( R )                              |
+Matched skittles: ( P )( P )( G )( Y )( R )
+Highest number of matches in a single chain: 3
+
+Which stack would you like to play ( G ) on (0-2)? 2
+0: |( O )( B )                         |
+1: |( Y )( Y )                         |
+2: |( R )( G )                         |
+Matched skittles: ( P )( P )( G )( Y )( R )
+Highest number of matches in a single chain: 3
+
+Which stack would you like to play ( P ) on (0-2)? 1
+0: |( O )( B )                         |
+1: |( Y )( Y )( P )                    |
+2: |( R )( G )                         |
+Matched skittles: ( P )( P )( G )( Y )( R )
+Highest number of matches in a single chain: 3
+
+Which stack would you like to play ( P ) on (0-2)? 1
+0: |( O )( B )                         |
+1: |( Y )( Y )( P )( P )               |
+2: |( R )( G )                         |
+Matched skittles: ( P )( P )( G )( Y )( R )
+Highest number of matches in a single chain: 3
+
+WINNER! All skittles have been successfully played.
+Goodbye.

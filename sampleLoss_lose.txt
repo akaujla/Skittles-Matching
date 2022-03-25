@@ -1,0 +1,39 @@
+=======================
+Welcome to SKITTLES 175
+=======================
+
+Please enter a filename to initialize game: lose.txt
+
+0: |          |
+1: |          |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( Y ) on (0-1)? 1
+0: |          |
+1: |( Y )     |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( Y ) on (0-1)? 0
+0: |( Y )     |
+1: |( Y )     |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-1)? 0
+0: |( Y )( P )|
+1: |( Y )     |
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+Which stack would you like to play ( P ) on (0-1)? 0
+Could not play on stack 0 because it is full
+Which stack would you like to play ( P ) on (0-1)? 1
+0: |( Y )( P )|
+1: |( Y )( P )|
+Matched skittles: 
+Highest number of matches in a single chain: 0
+
+GAME OVER. Better luck next time.
+Goodbye.

@@ -1,0 +1,2 @@
+3 7
+purple,purple,red,yellow,yellow,purple,red,orange,purple,red,green,blue,purple,green,yellow,green,purple,purple
